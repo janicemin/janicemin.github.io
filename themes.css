@@ -1,0 +1,30 @@
+body {
+	font-family: 'Palatino', sans-serif;
+	color: white;
+	background-image: url("http://psx-scene.com/forums/attachments/f177/24886d1296356190-very-cool-neon-ps3-theme-wallpapers-spray-artist.jpeg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#bio-pic {
+	margin-left: 500px;
+}
+
+
+h1 {
+	font-size: 60px;
+	font-weight: 500;
+	padding: 10px;
+	text-align: center;
+}
+
+#nav {
+	margin-left: 500px;
+}
+
+#bio {
+	padding-top: 30px;
+	margin-left: 350px;
+}
